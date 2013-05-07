@@ -7,10 +7,10 @@
 /////////////////////////////////////////////////////////////
 
 
-import oscP5.*;
+import oscP5.*;  // download library here: http://www.sojamo.de/libraries/oscP5/
 import netP5.*;
 import processing.serial.*;
-import cc.arduino.*;
+import cc.arduino.*; // link: https://github.com/pardo-bsso/processing-arduino
 
 //////////set these values//////////
 int baudRate = 57600;
